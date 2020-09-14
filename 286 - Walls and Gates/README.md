@@ -1,4 +1,4 @@
-###### 286 - Walls and Gates
+# 286 - Walls and Gates
 
 You are given a m x n 2D grid initialized with these three possible values.
 
