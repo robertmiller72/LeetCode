@@ -10,21 +10,21 @@ Find out the state of the asteroids after all collisions. If two asteroids meet,
 	Output: [5, 10]
 	Explanation: 
 	The 10 and -5 collide resulting in 10.  The 5 and 10 never collide.
-
+-
 	Example 2:
 	Input: 
 	asteroids = [8, -8]
 	Output: []
 	Explanation: 
 	The 8 and -8 collide exploding each other.
-
+-
 	Example 3:
 	Input: 
 	asteroids = [10, 2, -5]
 	Output: [10]
 	Explanation: 
 	The 2 and -5 collide resulting in -5.  The 10 and -5 collide resulting in 10.
-
+-
 	Example 4:
 	Input: 
 	asteroids = [-2, -1, 1, 2]
@@ -32,7 +32,7 @@ Find out the state of the asteroids after all collisions. If two asteroids meet,
 	Explanation: 
 	The -2 and -1 are moving left, while the 1 and 2 are moving right.
 	Asteroids moving the same direction never meet, so no asteroids will meet each other.
-
+-
 	Note:
 	The length of asteroids will be at most 10000.
 	Each asteroid will be a non-zero integer in the range [-1000, 1000]..
