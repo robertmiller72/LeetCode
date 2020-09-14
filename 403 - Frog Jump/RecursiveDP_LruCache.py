@@ -1,3 +1,5 @@
+#68ms, 19.7MB
+
 class Solution:
     from functools import lru_cache
     def canCross(self, stones: List[int]) -> bool:

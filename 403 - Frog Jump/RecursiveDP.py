@@ -1,3 +1,5 @@
+#92ms, 19.3MB
+
 class Solution:
     def canCross(self, stones: List[int]) -> bool:
         

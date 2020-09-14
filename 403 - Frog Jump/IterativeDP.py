@@ -1,3 +1,4 @@
+#248ms, 16.5MB
 class Solution:
     def canCross(self, stones: List[int]) -> bool:
         tracker = {
